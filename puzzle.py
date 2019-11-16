@@ -220,6 +220,15 @@ TRAITS TRYSTS <=> ACTCGTGCTATAACGAGT
 vvvvvvvvvvvvvvvvvv
 VANISH VANISH <=> GTGGCTAATATTAGCCAC
 VASTLY VESTRY <=> GTAGCGAGTACTCTCTAC
+
+DRuMS colour scheme: (A)zure, (T)weety bird, (G)reen, (C)armine
+VANISH VANISH <=> GTGGCTAATATTAGCCAC
+What is special about this, is it some kind of magic? Can you make another
+example appear with your answer? Don't worry, your journey there and back won't
+be dangerous, but I will enjoy your struggle.
+
+Hint:
+I mean, oh yes, you should translate it.
 """
 
 main()

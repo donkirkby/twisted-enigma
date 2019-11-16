@@ -7,6 +7,8 @@ verify_ssl = true
 
 [packages]
 biopython = "*"
+opencv-python = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
