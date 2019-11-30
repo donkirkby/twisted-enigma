@@ -3,7 +3,7 @@ from Bio.Seq import Seq
 
 
 def main():
-    puzzle = 'GTGGCTAATATTAGCCAC'
+    puzzle = 'TCGCTCATCGATGAGAGA'
     seq = Seq(puzzle)
     aminos = seq.translate()
     rev_seq = seq.reverse_complement()
